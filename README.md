@@ -1,1 +1,1 @@
-# dbms_web_sample
+This is a final project for database course, which is a volunteer platform. I was in charge of backend and front-back end integration. My duties includes using routers to create api for frontend, and integrating all the html file through js to swipe pages.
